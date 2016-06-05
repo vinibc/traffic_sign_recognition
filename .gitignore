@@ -1,0 +1,7 @@
+*~
+*.py
+*.caffemodel
+*.solverstate
+experiments-nin-/Images-test/*
+experiments-nin-/Images-train/*
+*.png
