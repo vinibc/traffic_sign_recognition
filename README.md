@@ -1,5 +1,6 @@
 # Trabalho_2_RanikVinicius
 Trabalho Disciplina Cognição Visual 2016/2
+
 Alunos: Ranik Guidolini e Vinicius Cardoso
 
 Reconhecimento de Placas de Trânsito
@@ -7,12 +8,15 @@ Reconhecimento de Placas de Trânsito
 ## Requisitos
 
 - Caffe - http://caffe.berkeleyvision.org/
+
   [Installation instructions](http://caffe.berkeleyvision.org/installation.html)
 
 - Dataset
-[German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Downloads)
+
+  [German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Downloads)
 
 - Caffemodel Rede Pré-treinada
+
   [NIN-ImageNet](https://gist.github.com/mavenlin/d802a5849de39225bcc6.) 
 
 - Este Repositório
