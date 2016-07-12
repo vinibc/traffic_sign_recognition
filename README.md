@@ -30,9 +30,12 @@ git clone https://github.com/vinibc/Trab_Cognicao_RanikVinicius.git
 ## Instruções
 
 Após ter os requisitos verifique o caminho das pastas de treino e teste nos arquivos dataset/train-shuffled.tx e test.txt
+
 Os scripts utilizados para gerar esses arquivos estao na pasta.
+
 Mantendo mesmo nome dos diretorios, nao eh necessario roda-los novamente Se necessário siga as informações no README da pasta dataset
-Para rodar os experimentos usando a caffe é necessário o solver, o arquivo de definição da rede e o caffemodel com os pesos da rede neural
+
+Para rodar os experimentos usando a caffe é necessário o solver, o arquivo de definição da rede e o caffemodel com os pesos da rede neural. 
 Os utilizados neste trabalho podem ser encontrados nas pastas Network-Train-1 e Network-Train-2
 
 Para iniciar o treino usando a nin-imagenet
