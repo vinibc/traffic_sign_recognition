@@ -1,7 +1,7 @@
-# Trabalho_2_RanikVinicius
-Trabalho Disciplina Cognição Visual 2016/2
+# Traffic Sign Recognition
+Trabalho Apresentado na Disciplina Cognição Visual 2016/2
 
-Alunos: Ranik Guidolini e Vinicius Cardoso
+Alunos: Ranik Guidolini e Vinicius B. Cardoso
 
 Reconhecimento de Placas de Trânsito
 
